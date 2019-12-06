@@ -22,4 +22,4 @@ So much can be exposed through conversation.  Often we make tools to solve probl
 
 ## Contribute
 
-After reading this I hope you understand how you can better support frameworks your consume.  While I want your code, I prefer your investment in the product.  Then we can work together as a community and make better software for ourselves!
+After reading this I hope you understand how you can better support frameworks yours consume.  While I want your code, I prefer your investment in the product.  Then we can work together as a community and make better software for ourselves!
